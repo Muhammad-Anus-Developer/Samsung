@@ -1,0 +1,448 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.sed{
+    background-image: url(https://images.samsung.com/pk/smartphones/galaxy-s21-ultra-5g/images/galaxy-s21-ultra-5g-share-image.jpg);
+background-repeat: no-repeat;
+background-size: auto;
+}
+#ola{
+    padding-left: 91%;
+}  
+#ola1{
+    text-decoration: none;
+    padding-left: 79%;
+    font-size: 0.6em;
+}
+#ola1:hover{
+    color: white;
+    text-decoration: underline;
+}
+#oli1:hover{
+    color: white;
+    text-decoration: underline;
+}
+#olp1:hover{
+    color: white;
+    text-decoration: underline;
+}
+#oli{
+    padding-left: 91%;
+}
+#oli1{
+    text-decoration: none;
+    padding-left: 81.5%;
+    font-size: 0.6em;
+}
+#olp{
+    padding-left: 91%;
+}
+#olp1{
+    text-decoration: none;
+    padding-left: 81.5%;
+    font-size: 0.6em;
+}
+
+  
+.head{
+ 
+     text-align: left;
+    text-shadow: 3px 3px 5px gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.4em
+    
+    
+}
+
+#buy{
+    display: block;
+    padding-right: 50px;
+  width: auto;
+}
+.epic{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 5em;
+    font-weight: normal;
+    text-shadow: 3px 3px 5px rgb(192, 179, 179);
+}
+
+.ps{
+    color: #81b29a;
+    font-size: 1.2em;
+    font-weight: normal;
+    text-align: center;
+}
+iframe{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+a{
+    margin-left: 80px;
+    color: grey;
+    text-decoration: none;
+    font-weight: bold;  
+    font-size: 1.3em; 
+   
+
+}
+
+
+
+a:hover{
+
+    color:white;
+    text-decoration: underline;
+}
+
+
+#des{
+    color: grey;
+    margin-right: 900px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 0px 0px 6px gray;
+}
+.epi{
+    text-align: center;
+    font-size: 5em;
+    text-shadow: 3px 3px 5px grey;
+    color: rgba(238, 234, 226, 0.952); 
+    letter-spacing: 2px;
+}
+
+#sam{
+    margin-left: 300px;
+}
+.has{
+    font-weight: normal;
+    font-size: 2.3em;
+    text-shadow: 0px 0px 8px white;
+}
+#ter{
+    margin-left: 50px;
+}
+#di{
+    text-align: center;
+}
+#za:hover{
+    border: 5px;
+    display: inline-block;
+}
+
+.dis h1{
+    display: inline-block;
+    margin: 50px 50px 0 50px;
+    font-size: 3.5em;
+    font-weight: normal;
+    text-align: center;
+    padding-left: 10px;
+    width: 100px;
+}
+.dis h3{
+    display: inline-block;
+    padding-left: 10px;
+    margin:50px;
+    text-align: center;
+    font-size: 1em;
+    font-weight: normal;
+    width: 100px;
+}
+
+.dfgs{
+    padding-left: 400px;
+}
+
+.d21{
+    text-align: center;
+}
+
+.sap{
+    font-weight: normal;
+    text-align: center;
+}
+.pa1{
+    color: gray;
+text-align: center;
+font-size: 1.2em;
+}
+.p1s{
+    padding-left: 30px;
+    color: grey;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 0px 0px 6px gray;
+}
+.pa2{
+    color: gray;
+    font-weight: bold;
+}
+iframe{
+    border-radius: 50px;
+    border: 2px solid green;
+}
+.if{
+    border-radius: 50px;
+    border: 2px solid green;
+}
+#a2{
+    font-size: 6em;
+    text-align: center;
+    color: rgba(255, 255, 255, .6);
+}
+#x1x{
+    font-size: 4em;
+    color: rgba(255, 255, 255, .8);
+    padding-left: 180px;
+}
+#x2x{
+    font-size: 4em;
+    color: rgba(255, 255, 255, .8);
+    padding-left: 65%;
+}
+#poi{
+    text-align: center;
+}
+.patra{
+    text-align: center;
+    font-size: 3em;
+}
+#h51{
+    text-align: center;
+}
+#oip{
+    text-align: center;
+    text-decoration: underline;
+}
+.as2{
+    background-image: url(https://images.samsung.com/levant/smartphones/galaxy-s21-ultra-5g/images/galaxy-s21-ultra-5g_highlights_night_mode_on.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+}
+.nap{ 
+    width: 300px;
+    padding-left: 200px;
+    text-align: center;
+}
+#try{
+    text-shadow: 6px 6px 8px gray;
+    font-size: 19em;
+    line height: 5px;
+    
+}
+#we{
+    padding-left: 70%;
+}
+h6{
+    font-weight: normal;
+    padding-left: 50px;
+}
+.ap{
+    text-align: justify;
+    padding-left: 50px;
+}
+#e1w{
+    display: inline-block;
+    /* text-align: center; */
+    padding-left: 210px;
+    /* margin: 40; */
+}
+.pass{
+    display: inline-block;
+    width: 170px;
+    padding-left: 100px;
+    color: grey;
+    margin:0 50px 0 0px ; 
+}
+.pass:first-line{
+    color: white;
+    font-weight: bold;
+}
+#q1ws{
+    padding-left: 50px;
+}
+.ghj{
+    color: grey;
+    padding-left: 50px;
+    text-align: center;
+}
+#ban{
+    padding-left: 20px;
+}
+.gh{
+    color: grey;
+    padding-left: 50px;
+    font-weight: bold;
+}
+#rew{
+    background-image: url(https://images.samsung.com/pk/smartphones/galaxy-s21-ultra-5g/images/galaxy-s21-ultra-5g_highlights_5g_end.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}  
+#re{
+    font-size: 20em;
+    text-align : center;
+    text-shadow : 10px 10px 5px rgba(0, 0, 0,.9);
+}
+#cxz{
+    background-image: url(image_2021-02-17_135945.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.vbn{
+    color: grey;
+    width: 400px;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding-left: 30px;
+}
+.vn{
+    color: grey;
+    width: 300px;
+    font-size: 0.8em;
+    font-weight: bold;
+    padding-left: 30px;
+}
+#ppp{
+    padding-left: 40px;
+}
+#man{
+    background-image: url(https://images.samsung.com/pk/smartphones/galaxy-s21-ultra-5g/images/galaxy-s21-ultra-5g_highlights_gaming_normal.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.p1a{
+    padding-left: 230px;
+    color: grey;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-shadow: 0px 0px 6px gray;
+}
+#nam{
+    /* padding-left: 250px; */
+    margin: 0 0 0 160px;
+    border: 2px solid white;
+    border-radius: 6px;
+}
+#fad{
+    background-image: url(https://images.samsung.com/pk/smartphones/galaxy-s21-ultra-5g/images/galaxy-s21-ultra-5g_highlights_mirror_device.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.pan{
+    width: 350px;
+    text-align: center;
+    padding-left: 500px;
+}
+#gum{
+    background-image: url(56.PNG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#camd{
+    padding-left: 50px;
+}
+.gha{
+    color: grey;
+    padding-left: 80px;
+}
+#lom{
+    background-image: url(cxzsd.PNG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.abc{
+    padding-left: 50px;
+    text-align: center;
+    font-weight: normal;
+    text-shadow: 4px 4px 6px rgba(255, 255, 255, .3);
+}
+.cde{
+    text-align: center;
+    font-weight: bold;
+    color: grey;
+}
+.dsaq{
+    background-image: url(gf..PNG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#van{
+    width: 300px;
+    color: grey;
+    font-weight: bold;
+    text-align: justify;
+    padding-left: 200px;
+}
+#kan{
+    background-image: url(copy_2455241.png);
+    background-repeat: no-repeat;
+    background-size: 100% 90%;
+}
+.lome{
+    font-weight: normal;
+    padding-left: 400px;
+    text-align: center;
+}
+#lll{
+    font-weight: bold;
+    color: grey;
+    padding-left: 400px;
+    text-align: center;
+}
+#fa{
+    background-image: url(fa\ 1.PNG);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.paw{
+    color:grey;
+    width: 330px;
+    font-size: 1.3em;
+    padding-left: 100px;
+    font-weight: bold;
+}
+#po{
+    padding-left: 200px;
+}
+#ko{
+    padding-left: 50px;
+    color: grey;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+#kj{
+    padding-left: 50px;
+}
+.pa{
+    padding-left: 50px;
+    color: grey;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+li{
+    color: rgba(255,255, 255, .7);
+}
+#qwerty{
+    background-image: url(https://images.samsung.com/pk/smartphones/galaxy-s21-ultra-5g/images/galaxy-s21-ultra-5g_highlights_acc_img-b.jpg);
+    background-repeat: no-repeat;
+    background-size: 90% 80%;
+}
+#rty{
+    padding-left: 190px;
+}
+#last{
+    background-color: black;
+    color: grey;
+}
+ol{
+    border: 2px dashed green;
+    font-size: 0.7em;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
